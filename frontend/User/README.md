@@ -49,22 +49,22 @@ This repo in particular handles the User side frontend.
   [![image-20211104174851466.png](https://i.postimg.cc/66SWy2PJ/image-20211104174851466.png)](https://postimg.cc/V5qQh61D)<br/>
 
 - A registration form.<br/>
-  ![](C:\Users\Andrei\AppData\Roaming\Typora\typora-user-images\image-20211104175016418.png)<br/>
+  [![image-20211104174943004.png](https://i.postimg.cc/nMbfT78X/image-20211104174943004.png)](https://postimg.cc/K3NW818b)<br/>
 
 - A login form.<br/>
-  ![](C:\Users\Andrei\AppData\Roaming\Typora\typora-user-images\image-20211104175102194.png)<br/>
+  [![image-20211104175054805.png](https://i.postimg.cc/Jh40bwc9/image-20211104175054805.png)](https://postimg.cc/FY8h4B6Z)<br/>
 
 - An user details page.<br/>
-  ![](C:\Users\Andrei\AppData\Roaming\Typora\typora-user-images\image-20211104175311766.png)<br/>
+[![image-20211104175311766.png](https://i.postimg.cc/K8QvcqSQ/image-20211104175311766.png)](https://postimg.cc/xXJStPdb)<br/>
 
 - A job search page with multiple filters.<br/>
-  ![](C:\Users\Andrei\AppData\Roaming\Typora\typora-user-images\image-20211104175638709.png)<br/>
+ [![image-20211104175638709.png](https://i.postimg.cc/0jg9XhD5/image-20211104175638709.png)](https://postimg.cc/zbjmVtx4)<br/>
 
 - A page where we can view our applications.<br/>
-  ![](C:\Users\Andrei\AppData\Roaming\Typora\typora-user-images\image-20211104175724656.png)<br/>
+[![image-20211104175724656.png](https://i.postimg.cc/4yzsDwQ6/image-20211104175724656.png)](https://postimg.cc/sGDkSY8x)<br/>
 
 - A page with companies where we can see the positions they offer.<br/>
-  ![](C:\Users\Andrei\AppData\Roaming\Typora\typora-user-images\image-20211104175954003.png)<br/>
+  [![image-20211104175954003.png](https://i.postimg.cc/xT20vD9t/image-20211104175954003.png)](https://postimg.cc/dD5PFfky)<br/>
 
 ### Built With
 
