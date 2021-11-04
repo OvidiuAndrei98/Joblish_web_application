@@ -46,7 +46,7 @@ Joblish is a recruitment platform web application that is composed of 3 reposito
 This repo in particular handles the User side frontend.
 
 - We have a homepage with a search bar for jobs. <br/>
-  ![](C:\Users\Andrei\AppData\Roaming\Typora\typora-user-images\image-20211104174851466.png)<br/>
+  [![image-20211104174851466.png](https://i.postimg.cc/66SWy2PJ/image-20211104174851466.png)](https://postimg.cc/V5qQh61D)<br/>
 
 - A registration form.<br/>
   ![](C:\Users\Andrei\AppData\Roaming\Typora\typora-user-images\image-20211104175016418.png)<br/>
