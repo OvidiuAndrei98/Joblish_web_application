@@ -46,25 +46,25 @@ Joblish is a recruitment platform web application that is composed of 3 reposito
 This repo in particular handles the User side frontend.
 
 - We have a homepage with a search bar for jobs. <br/>
-  ![Image](/image/path.png)<br/>
+  ![](C:\Users\Andrei\AppData\Roaming\Typora\typora-user-images\image-20211104174851466.png)<br/>
 
 - A registration form.<br/>
-  ![Image](/image/path.png)<br/>
+  ![](C:\Users\Andrei\AppData\Roaming\Typora\typora-user-images\image-20211104175016418.png)<br/>
 
 - A login form.<br/>
-  ![Image](/image/path.png)<br/>
+  ![](C:\Users\Andrei\AppData\Roaming\Typora\typora-user-images\image-20211104175102194.png)<br/>
 
 - An user details page.<br/>
-  ![Image](/image/path.png)<br/>
+  ![](C:\Users\Andrei\AppData\Roaming\Typora\typora-user-images\image-20211104175311766.png)<br/>
 
 - A job search page with multiple filters.<br/>
-  ![Image](/image/path.png)<br/>
+  ![](C:\Users\Andrei\AppData\Roaming\Typora\typora-user-images\image-20211104175638709.png)<br/>
 
 - A page where we can view our applications.<br/>
-  ![Image](/image/path.png)<br/>
+  ![](C:\Users\Andrei\AppData\Roaming\Typora\typora-user-images\image-20211104175724656.png)<br/>
 
 - A page with companies where we can see the positions they offer.<br/>
-  ![Image](/image/path.png)<br/>
+  ![](C:\Users\Andrei\AppData\Roaming\Typora\typora-user-images\image-20211104175954003.png)<br/>
 
 ### Built With
 
